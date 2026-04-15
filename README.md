@@ -1,6 +1,8 @@
 
 # 🛒 FakeStore E-Commerce App (React)
 
+----
+
 ## 🚀 Live Demo
 
 🌐 **Live Demo**: https://your-live-demo-link.vercel.app
