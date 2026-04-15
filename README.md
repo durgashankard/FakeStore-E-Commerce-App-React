@@ -1,6 +1,14 @@
 
 # 🛒 FakeStore E-Commerce App (React)
 
+🚀 Live Demo
+
+🌐 Live Demo: https://your-live-demo-link.vercel.app
+
+🚀 Deploy this project easily using Vercel / Netlify / Render
+
+---
+
 ## 🚀 Project Overview
 
 The **FakeStore App** is a React-based e-commerce application that fetches product data from an external API and allows users to:
