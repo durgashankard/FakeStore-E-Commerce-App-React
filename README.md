@@ -6,7 +6,8 @@
 
 ## 🚀 Live Demo
 
-🌐 **Live Demo**: https://your-live-demo-link.vercel.app
+🌐 **Live Demo**: https://fake-store-e-commerce-app-react.vercel.app/
+
 
 |   🚀 Deploy this project easily using Vercel / Netlify / Render
 
