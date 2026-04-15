@@ -1,4 +1,3 @@
-# React + Vite
 
 # 🛒 FakeStore E-Commerce App (React)
 
