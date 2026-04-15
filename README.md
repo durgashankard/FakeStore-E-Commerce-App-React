@@ -238,16 +238,3 @@ If you like this project:
 * 🧠 Learn & improve it
 
 ---
-
-## 📌 Conclusion
-
-This project is a great example of:
-
-* Real-world API integration
-* React hooks usage
-* Clean UI structure
-* Scalable frontend architecture
-
-Perfect for **portfolio + interviews** 💯
-
----
