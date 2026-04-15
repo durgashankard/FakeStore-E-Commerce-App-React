@@ -1,11 +1,11 @@
 
 # 🛒 FakeStore E-Commerce App (React)
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-🌐 Live Demo: https://your-live-demo-link.vercel.app
+🌐 **Live Demo**: https://your-live-demo-link.vercel.app
 
-🚀 Deploy this project easily using Vercel / Netlify / Render
+|   🚀 Deploy this project easily using Vercel / Netlify / Render
 
 ---
 
