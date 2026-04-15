@@ -214,11 +214,6 @@ npm start
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots here for better presentation*
-
----
 
 ## 🙌 Author
 
