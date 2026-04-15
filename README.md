@@ -1,7 +1,8 @@
 
 # 🛒 FakeStore E-Commerce App (React)
 
-----
+
+
 
 ## 🚀 Live Demo
 
